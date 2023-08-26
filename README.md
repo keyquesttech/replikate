@@ -14,7 +14,7 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
 
 **If I have a V0 can I upgrade? -** Realistically speaking yes, however it's not cheap and most parts are designed to be printed in [SLS](https://3d.jlcpcb.com/).
 
-**What's diferent on Replikate compared to the V0? -** Besides the obvious increase in bed size here's a list of upgrades and features:
+**What's diferent on this printer compared to the V0? -** Besides the obvious increase in bed size here's a list of upgrades and features:
 
 <div align="center">
 
@@ -31,5 +31,6 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
 
 </div>
 
-<h1 align="center">Justification of parts & parts</h1>
+<h1 align="center"></h1>
 
+<h1 align="center">Justification of parts & parts</h1>
