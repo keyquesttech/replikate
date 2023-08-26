@@ -18,9 +18,9 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
 
 <div align="center">
 
-| Thing | Item #|
-|----------|----------|
-| 3 stepper Z   | 1   |
+| Thing |
+|----------|
+| 3 stepper Z   |
 | AC bed   | 2  |
 | Beacon probe   | 3  |
 | CAN hotswap toolhead   | 4  |
@@ -33,4 +33,4 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
 
 <h1 align="center"></h1>
 
-<h1 align="center">Justification of parts & parts</h1>
+
