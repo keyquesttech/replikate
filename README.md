@@ -3,6 +3,8 @@
 This is a custom "Voron V0" modified to increase the bed size, while keeping the Z height the same.
 </p>
 
+<h1 align="center"></h1>
+
 **Why? -** The short answer is because I can and this is my hobby, however there's some factual reasons as to why I did it and why I did it how I did.
 
 **Why even bother if the Z height is the same as a V0?** - Sure, you could simply buy or build one of the official Voron printers if you want a larger device. However, if you already own a V0 or simply wish to print more parts in a single run, this could be for you. Here's a list of reasons to consider:
@@ -28,3 +30,6 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
 | 15A PSU   | 8  |
 
 </div>
+
+<h1 align="center">Justification of parts & parts</h1>
+
