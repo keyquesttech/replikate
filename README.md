@@ -12,13 +12,19 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
 
 **If I have a V0 can I upgrade? -** Realistically speaking yes, however it's not cheap and most parts are designed to be printed in [SLS](https://3d.jlcpcb.com/).
 
-**What's diferent on this printer compared to the V0? -** Besides the obvious increase in bed size heres a list of upgrades and features:
+**What's diferent on this printer compared to the V0? -** Besides the obvious increase in bed size here's a list of upgrades and features:
 
 <div align="center">
 
 | Thing | Item #|
 |----------|----------|
-| Data 1   | Data 2   |
-| Data 4   | Data 5   |
+| 3 stepper Z   | 1   |
+| AC bed   | 2  |
+| Beacon probe   | 3  |
+| CAN hotswap toolhead   | 4  |
+| Heated chamber   | 5  |
+| 3M chamber filter   | 6  |
+| Cooling fans for all bays   | 7  |
+| 15A PSU   | 8  |
 
 </div>
