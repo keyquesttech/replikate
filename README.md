@@ -40,3 +40,5 @@ Also have in mind that the HCC Can usese a hat for the raspberry so you will loo
 The bed is controlled using an [SSR](https://www.amazon.com/gp/product/B01MCWO35P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) with [fuses](https://www.amazon.com/gp/product/B075MC6W3P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for all 120v lines.
 
 **Boost fans for bays:** For the bottom and electronics bay I used [RC car fans](https://www.amazon.com/gp/product/B08R1D7J4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1), 2 for the bottom bay and 1 for the electronics bay as a helper for the main 120mm fan. They're small and powerfull, however they are extreamly loud and use 8VDC for power. To controll these I used a buck converter and a mossfet connected to the PI and power respectivly.
+
+**Buttons and LED:** The printer also has 2 buttons for macros in the front and an LED connected to the pi to provide feedback.
