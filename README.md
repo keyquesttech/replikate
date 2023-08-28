@@ -12,7 +12,7 @@ This is a custom "Voron V0" modified to increase the bed size, while keeping the
  - Most of the time to print more parts you need more bed, not height.
  - Splitting parts in to multiple smaller parts is an option if you're desperate for Z volume.
 
-**If I have a V0 can I upgrade? -** Realistically speaking yes, however it's not cheap and most parts are designed to be printed in [SLS](https://3d.jlcpcb.com/).
+**If I have a V0 can I upgrade? -** Realistically speaking yes, however it's not cheap and most parts are designed to be printed in [SLS](https://3d.jlcpcb.com/) or CNC machined.
 
 <h1 align="center">Electronics:</h1>
 
